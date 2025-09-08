@@ -9,7 +9,7 @@ I'm a passionate Python Developer and Aspiring Data Scientist with a solid found
     • Heart Disease Prediction<br>
     • Automated Facial Attendance System<br>
     • Hand Sign Recognition<br>
-🏏 National-level Cricket Player — team spirit and discipline included 😉<br><br>
+🏏 National-level Cricket Player — team spirit <br><br>
 
 💡 What I’m Currently Doing<br>
 📚 Learning: Data Science, Statistics, and DSA in Python<br>
